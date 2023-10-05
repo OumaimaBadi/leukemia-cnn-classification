@@ -19,11 +19,7 @@ You can access the dataset on Kaggle [here](https://www.kaggle.com/datasets/andr
 
 The repository is organized as follows:
 
-- `data/`: This directory contains the dataset or instructions on how to obtain it.
-
 - `notebooks/`: Jupyter notebooks used for data exploration, model training, and evaluation.
-
-- `src/`: Source code for the CNN model and any related utilities.
 
 - `model/`: Saved model checkpoints and configuration files.
 
