@@ -19,11 +19,7 @@ You can access the dataset on Kaggle [here](https://www.kaggle.com/datasets/andr
 
 The repository is organized as follows:
 
-- `notebooks/`: Jupyter notebooks used for data exploration, model training, and evaluation.
-
-- `model/`: Saved model checkpoints and configuration files.
-
-- `results/`: Visualizations, performance metrics, and other project results.
+-  Jupyter notebook used for data exploration, model training, and evaluation.
 
 - `requirements.txt`: A list of Python packages required to run the code.
 
